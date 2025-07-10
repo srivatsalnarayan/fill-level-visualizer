@@ -1,0 +1,21 @@
+# Don't track your virtual environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Streamlit and temp files
+output/
+images/
+*.csv
+*.jpg
+*.png
+
+# VSCode / OS junk
+*.DS_Store
+.vscode/
+
+# Docker & logs
+*.log

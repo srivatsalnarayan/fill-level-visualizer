@@ -1,0 +1,17 @@
+# Ignore Python virtualenv
+.venv/
+
+# Ignore OS/editor files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.vscode/
+
+# Ignore outputs, logs, and cached files
+output/
+*.log
+*.csv
+*.jpg
+*.png

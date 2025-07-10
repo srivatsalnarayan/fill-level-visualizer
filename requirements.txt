@@ -1,0 +1,6 @@
+ultralytics==8.3.163
+streamlit==1.26.0
+opencv-python
+pandas
+matplotlib
+protobuf==3.20.3
